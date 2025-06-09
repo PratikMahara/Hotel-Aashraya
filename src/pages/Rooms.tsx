@@ -51,8 +51,8 @@ const Rooms: React.FC = () => {
                 <div className="mb-6">
                   <h4 className="font-medium text-gray-700 mb-2">Price Range (per night)</h4>
                   <div className="flex justify-between mb-2">
-                    <span>${priceRange[0]}</span>
-                    <span>${priceRange[1]}</span>
+                    <span>Npr:Rs.{priceRange[0]}</span>
+                    <span>Npr:Rs.{priceRange[1]}</span>
                   </div>
                   <div className="grid grid-cols-2 gap-4">
                     <div>

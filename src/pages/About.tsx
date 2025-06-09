@@ -122,8 +122,9 @@ const About: React.FC = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-12">
             <div className="bg-white rounded-lg overflow-hidden shadow-md">
               <img
-                src="https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                alt="Raj Sharma - General Manager"
+                src="./Manager.jpeg"
+                
+                alt="Kamal Singh - General Manager"
                 className="w-full h-64 object-cover object-top"
               />
               <div className="p-6">
@@ -137,7 +138,7 @@ const About: React.FC = () => {
             
             <div className="bg-white rounded-lg overflow-hidden shadow-md">
               <img
-                src="https://images.pexels.com/photos/3771839/pexels-photo-3771839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                src=""
                 alt="Sita Adhikari - Executive Chef"
                 className="w-full h-64 object-cover object-top"
               />
@@ -152,7 +153,7 @@ const About: React.FC = () => {
             
             <div className="bg-white rounded-lg overflow-hidden shadow-md">
               <img
-                src="https://images.pexels.com/photos/3760958/pexels-photo-3760958.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                src=""
                 alt="Anish Thapa - Guest Relations Manager"
                 className="w-full h-64 object-cover object-top"
               />
