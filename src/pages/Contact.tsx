@@ -31,7 +31,7 @@ const Contact: React.FC = () => {
                   <div>
                     <h3 className="text-lg font-bold text-gray-800 mb-1">Address</h3>
                     <p className="text-gray-600">
-                      Hotel Aashrya, Lamahai<br />
+                      Hotel Ashraya, Lamahi<br />
                       Dang, Nepal
                     </p>
                   </div>
@@ -57,8 +57,8 @@ const Contact: React.FC = () => {
                   <div>
                     <h3 className="text-lg font-bold text-gray-800 mb-1">Email</h3>
                     <p className="text-gray-600">
-                      <a href="mailto:info@hotelaashrya.com" className="hover:text-[#1E3A8A]">info@hotelaashrya.com</a><br />
-                      <a href="mailto:reservations@hotelaashrya.com" className="hover:text-[#1E3A8A]">reservations@hotelaashrya.com</a>
+                      <a href="mailto:info@hotelaashrya.com" className="hover:text-[#1E3A8A]">info@hotelashrya.com</a><br />
+                      <a href="mailto:reservations@hotelaashrya.com" className="hover:text-[#1E3A8A]">reservations@hotelashrya.com</a>
                     </p>
                   </div>
                 </div>

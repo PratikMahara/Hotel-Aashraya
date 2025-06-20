@@ -31,6 +31,7 @@ const Navbar: React.FC = () => {
     { name: 'Gallery', path: '/gallery' },
     { name: 'About', path: '/about' },
     { name: 'Contact', path: '/contact' },
+    { name: 'Menus', path: '/menus' },
   ];
 
   return (
@@ -42,7 +43,7 @@ const Navbar: React.FC = () => {
       <div className="container mx-auto px-4 flex justify-between items-center">
         <Link to="/" className="flex items-center">
           <h1 className={`text-2xl md:text-3xl font-serif font-bold ${scrolled ? 'text-[#1E3A8A]' : 'text-white'}`}>
-            Hotel Aashraya
+            Hotel Ashraya
           </h1>
         </Link>
 

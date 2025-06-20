@@ -19,7 +19,7 @@ const Home: React.FC = () => {
     <div className="bg-gray-50">
       {/* Hero Section */}
       <HeroSection
-        title="Experience Luxury at Hotel Aashraya"
+        title="Experience Luxury at Hotel Ashraya"
         subtitle="Discover comfort, elegance, and authentic Nepali hospitality in the heart of Dang."
         image="ashraya.jpeg"
         showBookNow={true}
@@ -44,7 +44,7 @@ const Home: React.FC = () => {
                 Nestled in the serene landscapes of Dang, Hotel Aashraya offers a perfect blend of traditional Nepali hospitality and modern luxury. Our hotel is designed to provide you with a comfortable and memorable stay, whether you're traveling for business or pleasure.
               </p>
               <p className="text-gray-600 mb-6">
-                At Hotel Aashraya, we believe in creating experiences that reflect the rich cultural heritage of Nepal while providing all the conveniences expected by modern travelers. From our elegantly appointed rooms to our authentic cuisine, every aspect of your stay is crafted to delight your senses.
+                At Hotel Ashraya, we believe in creating experiences that reflect the rich cultural heritage of Nepal while providing all the conveniences expected by modern travelers. From our elegantly appointed rooms to our authentic cuisine, every aspect of your stay is crafted to delight your senses.
               </p>
               <Link
                 to="/about"
@@ -254,7 +254,7 @@ const Home: React.FC = () => {
         <div className="absolute inset-0 bg-black opacity-60"></div>
         <div className="container mx-auto px-4 relative z-10 text-center">
           <h2 className="text-3xl md:text-4xl font-serif font-bold text-white mb-4">
-            Ready to Experience Hotel Aashraya?
+            Ready to Experience Hotel Ashraya?
           </h2>
           <p className="text-xl text-white mb-8 max-w-2xl mx-auto">
             Book your stay now and discover the perfect blend of luxury, comfort, and authentic Nepali hospitality.
