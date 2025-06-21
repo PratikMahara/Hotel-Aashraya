@@ -21,7 +21,7 @@ const menuItems = [
   {
     title: "Breakfast Menu",
     description: (
-      <div className="text-gray-800 text-[19px] leading-relaxed space-y-4">
+      <div className="text-gray-800 text-[16px] leading-relaxed space-y-4">
         <div>
           <span className="font-semibold text-lg">Kids Combo Set (Rs.375/-):</span>
           <br />
@@ -49,7 +49,7 @@ const menuItems = [
   {
     title: "Soups Menu",
     description: (
-      <div className="text-gray-800 text-[19px] leading-relaxed space-y-4">
+      <div className="text-gray-800 text-[16px] leading-relaxed space-y-4">
         <div>
           <span className="text-lg font-semibold underline underline-offset-4">Creamy Soups</span>
           <div>Try Cream of Chicken (Rs.200), Mushroom (Rs.200), or Veg Soup (Rs.150) for a smooth start.</div>
@@ -77,7 +77,7 @@ const menuItems = [
   {
     title: "Indian Cuisine",
     description: (
-      <div className="text-gray-800 text-[19px] leading-relaxed space-y-4">
+      <div className="text-gray-800 text-[16px] leading-relaxed space-y-4">
         <div>
           <span className="text-lg font-semibold underline underline-offset-4">Curries & Sabji</span>
           <div>
@@ -103,7 +103,7 @@ const menuItems = [
   {
     title: "Royal Thali Set",
     description: (
-      <div className="text-gray-800 text-[19px] leading-relaxed space-y-4">
+      <div className="text-gray-800 text-[16px] leading-relaxed space-y-4">
         <div>
           <span className="text-lg font-semibold underline underline-offset-4">Veg Khana (Rs.350)</span>
           <div>Rice, daal, mutter paneer, mix veg, saag, achar, chatni, papad, salad, and dahi.</div>
@@ -135,7 +135,7 @@ const menuItems = [
   {
     title: "Burgers, Pizza & Sandwiches",
     description: (
-      <div className="text-gray-800 text-[19px] leading-relaxed space-y-4">
+      <div className="text-gray-800 text-[16px] leading-relaxed space-y-4">
         <div>
           <span className="text-lg font-semibold underline underline-offset-4">Burgers</span>
           <div>Veg Burger (Rs.300) and Chicken Burger (Rs.400).</div>
@@ -155,7 +155,7 @@ const menuItems = [
   {
     title: "Indian Breakfast",
     description: (
-      <div className="text-gray-800 text-[19px] leading-relaxed space-y-4">
+      <div className="text-gray-800 text-[16px] leading-relaxed space-y-4">
         <div>
           <span className="text-lg font-semibold underline underline-offset-4">Jeri, Puri & Tarkari (Rs.275)</span>
           <div>Traditional combo of sweet Jeri, crispy Puri, and flavorful Tarkari.</div>
@@ -187,7 +187,7 @@ const menuItems = [
   {
     title: "Hotel Ashraya Wine",
     description: (
-      <div className="text-gray-800 text-[19px] leading-relaxed space-y-4">
+      <div className="text-gray-800 text-[16px] leading-relaxed space-y-4">
         <div>
           <span className="text-lg font-semibold underline underline-offset-4">J.P Chienet Red or White</span>
           <div>Rs.2450</div>
@@ -211,7 +211,7 @@ const menuItems = [
   {
     title: "Hotel Ashraya Vodka",
     description: (
-      <div className="text-gray-800 text-[19px] leading-relaxed space-y-4">
+      <div className="text-gray-800 text-[16px] leading-relaxed space-y-4">
         <div>
           <span className="text-lg font-semibold underline underline-offset-4">Absolute Vodka 1000 ml</span>
           <div>Rs.555 (60 ml), Rs.1620 (180 ml), Rs.3150 (360 ml), Rs.8500 (Full Bottle)</div>
@@ -239,7 +239,7 @@ const menuItems = [
   {
     title: "Hukka & Cigarette",
     description: (
-      <div className="text-gray-800 text-[19px] leading-relaxed space-y-3">
+      <div className="text-gray-800 text-[16px] leading-relaxed space-y-3">
         <div>
           <span className="text-lg font-semibold underline underline-offset-4">Iced Cloud Hukka (Rs.700)</span>
           <div>Mint, Thousand 1, Double Apple flavors.</div>
@@ -265,7 +265,7 @@ const menuItems = [
   {
     title: "Hotel Ashraya Whiskey",
     description: (
-      <div className="text-gray-800 text-[19px] leading-relaxed space-y-3">
+      <div className="text-gray-800 text-[16px] leading-relaxed space-y-3">
         <div>
           <span className="text-lg font-semibold underline underline-offset-4">Gold Level 1000 ml</span>
           <div>Rs.1050 (60 ml), Rs.3100 (180 ml), Rs.6100 (360 ml), Rs.16500 (Full Bottle)</div>
@@ -302,7 +302,7 @@ const menuItems = [
   {
     title: "Beer",
     description: (
-      <div className="text-gray-800 text-[19px] leading-relaxed space-y-2">
+      <div className="text-gray-800 text-[16px] leading-relaxed space-y-2">
         <div><span className="font-semibold underline underline-offset-4">Carlsberg (650 ml):</span> Rs.575</div>
         <div><span className="font-semibold underline underline-offset-4">Tuborg Gold (650 ml):</span> Rs.525</div>
         <div><span className="font-semibold underline underline-offset-4">Tuborg Strong (650 ml):</span> Rs.485</div>
@@ -321,7 +321,7 @@ const menuItems = [
   {
     title: "Local Chicken & Soft Drinks",
     description: (
-      <div className="text-gray-800 text-[19px] leading-relaxed space-y-2">
+      <div className="text-gray-800 text-[16px] leading-relaxed space-y-2">
         <div>
           <span className="font-semibold underline underline-offset-4">Local Whole Chicken:</span> Katnesi, Sekuwa & Curry - Rs.3500;{" "}
           <span className="font-semibold underline underline-offset-4">Badhiya Whole Chicken:</span> Katnesi, Sadheko & Curry - Rs.5500
@@ -342,7 +342,7 @@ const menuItems = [
   {
     title: "Mutton, Buff & Pork Snacks",
     description: (
-      <div className="text-gray-800 text-[19px] leading-relaxed space-y-2">
+      <div className="text-gray-800 text-[16px] leading-relaxed space-y-2">
         <div>
           <span className="font-semibold underline underline-offset-4">Mutton Snacks:</span> Katnesi Rs.500; Taas Rs.550; Sekuwa Rs.600; Sadheko Rs.500
         </div>
@@ -359,7 +359,7 @@ const menuItems = [
   {
     title: "Salad & Chicken Snacks",
     description: (
-      <div className="text-gray-800 text-[19px] leading-relaxed space-y-2">
+      <div className="text-gray-800 text-[16px] leading-relaxed space-y-2">
         <div>
           <span className="font-semibold underline underline-offset-4">Salads:</span> Garden Green Rs.125; Nepali Green Rs.150; Fruit Rs.300; Russian Rs.350
         </div>

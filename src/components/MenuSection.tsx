@@ -53,7 +53,7 @@ const MenuSection: React.FC<MenuSectionProps> = ({
         <div className="text-black text-2xl">{description}</div>
       </div>
       <div className="md:w-1/2">
-        <img src={image} alt={title} className="w-72 md:w-96 lg:w-[550px] h-fit rounded shadow" />
+        <img src={image} alt={title} className="w-72 md:w-96 lg:w-[450px] h-fit rounded shadow" />
       </div>
     </div>
   );
