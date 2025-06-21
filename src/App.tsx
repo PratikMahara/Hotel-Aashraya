@@ -1,4 +1,3 @@
-import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
@@ -11,6 +10,7 @@ import Contact from './pages/Contact';
 import About from './pages/About';
 import ScrollToTop from './components/ScrollToTop';
 import MenusPage from './pages/MenusPage';
+import Menupage1 from './pages/Menupage1';
 
 function App() {
   return (
@@ -28,6 +28,7 @@ function App() {
             <Route path="/contact" element={<Contact />} />
             <Route path="/about" element={<About />} />
             <Route path="/menus" element={<MenusPage />} />
+            <Route path="/menus1" element={<Menupage1 />} />
           </Routes>
         </main>
         <Footer />
