@@ -16,6 +16,7 @@ import BeerPrice from "/BeerDrinks.png";
 import LocalChickenAndSoftDrinks from "/LocalChickenAndSoftDrink.png";
 import MuttonBuffPork from "/MuttonBuffPork.png";
 import SaladAndChickenSnacks from "/SaladAndChickenSnacks.png";
+import QrMenuSection from "../components/HotelMenuQrSection";
 
 const menuItems = [
   {
@@ -384,6 +385,8 @@ const MenusPage = () => {
         image={heroimage}
         height="h-[70vh]"
       />
+          <QrMenuSection/>
+
       <div className="container mx-auto px-4 py-8">
         {menuItems.map((item, index) => (
           <MenuSection
