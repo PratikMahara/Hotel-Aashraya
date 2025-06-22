@@ -1,5 +1,5 @@
 import React from 'react';
-import menuqr from '/menuqr.png'; // 👈 Adjust the path as needed
+import menuqr from '/qr.png'; // 👈 Adjust the path as needed
 
 const QrMenuSection: React.FC = () => {
   return (
